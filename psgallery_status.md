@@ -1,6 +1,13 @@
 
 PowerShell Gallery Status
 =========================
+
+### Nov 17th 2026, Errors when searching for packages.
+
+Since 2:00am UTC we have been observing errors when searching for packages by tag (for example, `Find-PSResource -Tag`). We are investigating, but you may see failures when searching for packages.
+
+__Status: Ongoing__
+
 ### The [PowerShell Gallery](https://powershellgallery.com) is currently:  __Working Normally__
 
 ### 6/11/2019 - PowerShellGallery.com is not responding
